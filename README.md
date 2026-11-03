@@ -227,6 +227,28 @@ Open your browser at `http://localhost:8501`.
 
 ---
 
+## 🐳 Running with Docker (Recommended)
+
+You can run the entire system (FastAPI backend + Streamlit UI) in a single container with Docker or Docker Compose:
+
+### Option A: Using Docker Compose
+```bash
+docker compose up --build
+```
+
+### Option B: Using Plain Docker CLI
+```bash
+# 1. Build the image
+docker build -t payroll-validation-system .
+
+# 2. Run the container
+docker run -p 8000:8000 -p 8501:8501 payroll-validation-system
+```
+* **Streamlit Dashboard:** [http://localhost:8501](http://localhost:8501)
+* **FastAPI Backend & Swagger API Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)
+
+---
+
 ## 💻 CLI Commands & Test Suite
 
 ### Run Step 10 Reproducibility Verification
@@ -248,7 +270,7 @@ python master_checker.py
 ```bash
 pytest -v test
 ```
-All 16 unit, integration, and governance tests pass with 100% compliance.
+All 17 unit, integration, and governance tests pass with 100% compliance.
 
 ---
 
