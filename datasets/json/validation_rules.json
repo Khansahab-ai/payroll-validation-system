@@ -1,0 +1,66 @@
+[
+  {
+    "rule_code": "RULE-BANK-001",
+    "rule_name": "Missing Bank Account Validation",
+    "severity": "HIGH",
+    "description": "Flags active employees missing required bank account numbers before payroll disbursement.",
+    "id": 1,
+    "is_active": true
+  },
+  {
+    "rule_code": "RULE-TAX-001",
+    "rule_name": "Missing Tax ID Validation",
+    "severity": "HIGH",
+    "description": "Flags active employees missing statutory tax identification numbers.",
+    "id": 2,
+    "is_active": true
+  },
+  {
+    "rule_code": "RULE-TIME-DUP-001",
+    "rule_name": "Duplicate Time Entry Submission",
+    "severity": "HIGH",
+    "description": "Flags duplicate time submissions sharing identical submission reference codes or employee and date.",
+    "id": 3,
+    "is_active": true
+  },
+  {
+    "rule_code": "RULE-TIME-EXC-001",
+    "rule_name": "Excessive Working Hours / Outliers",
+    "severity": "HIGH",
+    "description": "Flags approved hours exceeding the pay group's maximum period hours or single-shift outliers > 16h.",
+    "id": 4,
+    "is_active": true
+  },
+  {
+    "rule_code": "RULE-ALW-DUP-001",
+    "rule_name": "Duplicate Allowance Validation",
+    "severity": "HIGH",
+    "description": "Flags duplicate allowances with identical reference codes or duplicate grants of single-grant allowances.",
+    "id": 5,
+    "is_active": true
+  },
+  {
+    "rule_code": "RULE-TIME-UNAPP-001",
+    "rule_name": "Unapproved Time Entries Validation",
+    "severity": "HIGH",
+    "description": "Flags unapproved or pending time entries within a pay period, preventing premature inclusion or export.",
+    "id": 6,
+    "is_active": true
+  },
+  {
+    "rule_code": "RULE-LEV-DUP-001",
+    "rule_name": "Duplicate Leave Deduction Validation",
+    "severity": "HIGH",
+    "description": "Flags unpaid leave deductions that are applied multiple times for the same leave record or period.",
+    "id": 7,
+    "is_active": true
+  },
+  {
+    "rule_code": "RULE-PAY-RECON-001",
+    "rule_name": "Payroll Totals Reconciliation Validation",
+    "severity": "HIGH",
+    "description": "Flags arithmetic discrepancies between net pay and calculated component totals (basic + overtime + allowances - deductions - unpaid leave).",
+    "id": 8,
+    "is_active": true
+  }
+]

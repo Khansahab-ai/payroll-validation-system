@@ -1,0 +1,117 @@
+{
+  "project": "Payroll Validation System",
+  "scale": "starter",
+  "fixed_seed": 20261022,
+  "generator_command": "python data_generator/generate_all.py --scale starter --seed 20261022",
+  "generated_at": "2026-11-03T21:44:31.674957+00:00",
+  "total_tables": 14,
+  "total_records": 3802,
+  "table_counts": {
+    "pay_groups": 3,
+    "employees": 50,
+    "pay_periods": 3,
+    "time_entries": 2723,
+    "leave_records": 32,
+    "allowances": 271,
+    "deductions": 311,
+    "payroll_inputs": 150,
+    "validation_rules": 8,
+    "exceptions": 99,
+    "approvals": 0,
+    "payroll_exports": 0,
+    "audit_logs": 2,
+    "employee_allowance_eligibilities": 150
+  },
+  "tables_manifest": {
+    "pay_groups": {
+      "record_count": 3,
+      "json_file": "json/pay_groups.json",
+      "csv_file": "csv/pay_groups.csv",
+      "sha256": "8295b851fbaba50b4f9164d6402b70f6ef07e2ff911c7ec24f2081d0ca7c1c1b"
+    },
+    "employees": {
+      "record_count": 50,
+      "json_file": "json/employees.json",
+      "csv_file": "csv/employees.csv",
+      "sha256": "ea6efd6e77670bb88824b54757881d0a68f65173ff56505e128eb8379122c6e9"
+    },
+    "pay_periods": {
+      "record_count": 3,
+      "json_file": "json/pay_periods.json",
+      "csv_file": "csv/pay_periods.csv",
+      "sha256": "b4fe15865f1bda89750cd70752a3967b3ea2ee39e3a3071a3957aa6ca2c96464"
+    },
+    "time_entries": {
+      "record_count": 2723,
+      "json_file": "json/time_entries.json",
+      "csv_file": "csv/time_entries.csv",
+      "sha256": "a1f8c12e9aeffc66009e383d1d7d60efb1ef3cb17c6545e91e8c58e1fab35103"
+    },
+    "leave_records": {
+      "record_count": 32,
+      "json_file": "json/leave_records.json",
+      "csv_file": "csv/leave_records.csv",
+      "sha256": "5e06b3b8a42418e909d1e7a45b978dc2141b8673cf0e372401f060dae05b26f4"
+    },
+    "allowances": {
+      "record_count": 271,
+      "json_file": "json/allowances.json",
+      "csv_file": "csv/allowances.csv",
+      "sha256": "71182fe4056c703578ed3347f0b204b2b538f99664b49b7566645fa286cc888d"
+    },
+    "deductions": {
+      "record_count": 311,
+      "json_file": "json/deductions.json",
+      "csv_file": "csv/deductions.csv",
+      "sha256": "e85d0b7a49214d83cc4d66a9397e33c9fc02f413bf4116dd45686df97811ed0b"
+    },
+    "payroll_inputs": {
+      "record_count": 150,
+      "json_file": "json/payroll_inputs.json",
+      "csv_file": "csv/payroll_inputs.csv",
+      "sha256": "379ae88d75e9bf7322f5841d429f9412fa369fa1d181baf29f3d976788bada43"
+    },
+    "validation_rules": {
+      "record_count": 8,
+      "json_file": "json/validation_rules.json",
+      "csv_file": "csv/validation_rules.csv",
+      "sha256": "f5900d78dc10b3601ef5d0c6d6c10e26af1343102a919eacf5cefbac74fc6d70"
+    },
+    "exceptions": {
+      "record_count": 99,
+      "json_file": "json/exceptions.json",
+      "csv_file": "csv/exceptions.csv",
+      "sha256": "d9d7fc98f39caa87471637ab5d8fa371b043ec18c37af4ce47339062f0d96007"
+    },
+    "approvals": {
+      "record_count": 0,
+      "json_file": "json/approvals.json",
+      "csv_file": "csv/approvals.csv",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "payroll_exports": {
+      "record_count": 0,
+      "json_file": "json/payroll_exports.json",
+      "csv_file": "csv/payroll_exports.csv",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "audit_logs": {
+      "record_count": 2,
+      "json_file": "json/audit_logs.json",
+      "csv_file": "csv/audit_logs.csv",
+      "sha256": "fbce4e4d7bcdcb258a3d0c23f4c28e1516ac873c543126d124353e8614dc6de1"
+    },
+    "employee_allowance_eligibilities": {
+      "record_count": 150,
+      "json_file": "json/employee_allowance_eligibilities.json",
+      "csv_file": "csv/employee_allowance_eligibilities.csv",
+      "sha256": "e0784d94c87f36e6896f3ea8706cda06c105f872aa7acbf630fd87d806d5aacb"
+    }
+  },
+  "lawful_provenance": {
+    "status": "COMPLIANT",
+    "type": "100% Synthetic Domain Data",
+    "privacy_notice": "No PII, external proprietary records, or confidential individual data was ingested.",
+    "data_retention": "All employee names, addresses, emails, and identifiers are generated deterministically using Faker and fixed seed."
+  }
+}

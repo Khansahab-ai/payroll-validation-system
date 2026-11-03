@@ -1,0 +1,2712 @@
+[
+  {
+    "employee_id": 1,
+    "allowance_id": "ALW-EMP-000001-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 1,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000001-2026-01-MEAL"
+  },
+  {
+    "employee_id": 1,
+    "allowance_id": "ALW-EMP-000001-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 2,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000001-2026-01-TRANS"
+  },
+  {
+    "employee_id": 1,
+    "allowance_id": "ALW-EMP-000001-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 3,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000001-2026-02-MEAL"
+  },
+  {
+    "employee_id": 1,
+    "allowance_id": "ALW-EMP-000001-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 4,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000001-2026-02-TRANS"
+  },
+  {
+    "employee_id": 1,
+    "allowance_id": "ALW-EMP-000001-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 5,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000001-2026-03-MEAL"
+  },
+  {
+    "employee_id": 1,
+    "allowance_id": "ALW-EMP-000001-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 6,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000001-2026-03-TRANS"
+  },
+  {
+    "employee_id": 2,
+    "allowance_id": "ALW-EMP-000002-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 7,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000002-2026-01-MEAL"
+  },
+  {
+    "employee_id": 2,
+    "allowance_id": "ALW-EMP-000002-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 8,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000002-2026-01-TRANS"
+  },
+  {
+    "employee_id": 2,
+    "allowance_id": "ALW-EMP-000002-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 9,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000002-2026-02-MEAL"
+  },
+  {
+    "employee_id": 2,
+    "allowance_id": "ALW-EMP-000002-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 10,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000002-2026-02-TRANS"
+  },
+  {
+    "employee_id": 2,
+    "allowance_id": "ALW-EMP-000002-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 11,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000002-2026-03-MEAL"
+  },
+  {
+    "employee_id": 2,
+    "allowance_id": "ALW-EMP-000002-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 12,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000002-2026-03-TRANS"
+  },
+  {
+    "employee_id": 3,
+    "allowance_id": "ALW-EMP-000003-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 13,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000003-2026-01-MEAL"
+  },
+  {
+    "employee_id": 3,
+    "allowance_id": "ALW-EMP-000003-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 14,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000003-2026-01-TRANS"
+  },
+  {
+    "employee_id": 3,
+    "allowance_id": "ALW-EMP-000003-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 15,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000003-2026-02-MEAL"
+  },
+  {
+    "employee_id": 3,
+    "allowance_id": "ALW-EMP-000003-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 16,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000003-2026-02-TRANS"
+  },
+  {
+    "employee_id": 3,
+    "allowance_id": "ALW-EMP-000003-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 17,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000003-2026-03-MEAL"
+  },
+  {
+    "employee_id": 3,
+    "allowance_id": "ALW-EMP-000003-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 18,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000003-2026-03-TRANS"
+  },
+  {
+    "employee_id": 4,
+    "allowance_id": "ALW-EMP-000004-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 19,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000004-2026-01-MEAL"
+  },
+  {
+    "employee_id": 4,
+    "allowance_id": "ALW-EMP-000004-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 20,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000004-2026-01-TRANS"
+  },
+  {
+    "employee_id": 4,
+    "allowance_id": "ALW-EMP-000004-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 21,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000004-2026-02-MEAL"
+  },
+  {
+    "employee_id": 4,
+    "allowance_id": "ALW-EMP-000004-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 22,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000004-2026-02-TRANS"
+  },
+  {
+    "employee_id": 4,
+    "allowance_id": "ALW-EMP-000004-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 23,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000004-2026-03-MEAL"
+  },
+  {
+    "employee_id": 4,
+    "allowance_id": "ALW-EMP-000004-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 24,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000004-2026-03-TRANS"
+  },
+  {
+    "employee_id": 5,
+    "allowance_id": "ALW-EMP-000005-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 25,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000005-2026-01-MEAL"
+  },
+  {
+    "employee_id": 5,
+    "allowance_id": "ALW-EMP-000005-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 26,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000005-2026-01-TRANS"
+  },
+  {
+    "employee_id": 5,
+    "allowance_id": "ALW-EMP-000005-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 27,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000005-2026-02-MEAL"
+  },
+  {
+    "employee_id": 5,
+    "allowance_id": "ALW-EMP-000005-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 28,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000005-2026-02-TRANS"
+  },
+  {
+    "employee_id": 5,
+    "allowance_id": "ALW-EMP-000005-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 29,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000005-2026-03-MEAL"
+  },
+  {
+    "employee_id": 5,
+    "allowance_id": "ALW-EMP-000005-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 30,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000005-2026-03-TRANS"
+  },
+  {
+    "employee_id": 6,
+    "allowance_id": "ALW-EMP-000006-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 31,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000006-2026-01-MEAL"
+  },
+  {
+    "employee_id": 6,
+    "allowance_id": "ALW-EMP-000006-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 32,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000006-2026-01-TRANS"
+  },
+  {
+    "employee_id": 6,
+    "allowance_id": "ALW-EMP-000006-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 33,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000006-2026-02-MEAL"
+  },
+  {
+    "employee_id": 6,
+    "allowance_id": "ALW-EMP-000006-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 34,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000006-2026-02-TRANS"
+  },
+  {
+    "employee_id": 6,
+    "allowance_id": "ALW-EMP-000006-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 35,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000006-2026-03-MEAL"
+  },
+  {
+    "employee_id": 6,
+    "allowance_id": "ALW-EMP-000006-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 36,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000006-2026-03-TRANS"
+  },
+  {
+    "employee_id": 7,
+    "allowance_id": "ALW-EMP-000007-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 37,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000007-2026-01-MEAL"
+  },
+  {
+    "employee_id": 7,
+    "allowance_id": "ALW-EMP-000007-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 38,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000007-2026-01-TRANS"
+  },
+  {
+    "employee_id": 7,
+    "allowance_id": "ALW-EMP-000007-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 39,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000007-2026-02-MEAL"
+  },
+  {
+    "employee_id": 7,
+    "allowance_id": "ALW-EMP-000007-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 40,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000007-2026-02-TRANS"
+  },
+  {
+    "employee_id": 7,
+    "allowance_id": "ALW-EMP-000007-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 41,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000007-2026-03-MEAL"
+  },
+  {
+    "employee_id": 7,
+    "allowance_id": "ALW-EMP-000007-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 42,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000007-2026-03-TRANS"
+  },
+  {
+    "employee_id": 8,
+    "allowance_id": "ALW-EMP-000008-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 43,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000008-2026-01-MEAL"
+  },
+  {
+    "employee_id": 8,
+    "allowance_id": "ALW-EMP-000008-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 44,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000008-2026-02-MEAL"
+  },
+  {
+    "employee_id": 8,
+    "allowance_id": "ALW-EMP-000008-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 45,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000008-2026-03-MEAL"
+  },
+  {
+    "employee_id": 9,
+    "allowance_id": "ALW-EMP-000009-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 46,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000009-2026-01-MEAL"
+  },
+  {
+    "employee_id": 9,
+    "allowance_id": "ALW-EMP-000009-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 47,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000009-2026-02-MEAL"
+  },
+  {
+    "employee_id": 9,
+    "allowance_id": "ALW-EMP-000009-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 48,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000009-2026-03-MEAL"
+  },
+  {
+    "employee_id": 10,
+    "allowance_id": "ALW-EMP-000010-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 49,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000010-2026-01-MEAL"
+  },
+  {
+    "employee_id": 10,
+    "allowance_id": "ALW-EMP-000010-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 50,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000010-2026-01-TRANS"
+  },
+  {
+    "employee_id": 10,
+    "allowance_id": "ALW-EMP-000010-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 51,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000010-2026-02-MEAL"
+  },
+  {
+    "employee_id": 10,
+    "allowance_id": "ALW-EMP-000010-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 52,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000010-2026-02-TRANS"
+  },
+  {
+    "employee_id": 10,
+    "allowance_id": "ALW-EMP-000010-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 53,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000010-2026-03-MEAL"
+  },
+  {
+    "employee_id": 10,
+    "allowance_id": "ALW-EMP-000010-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 54,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000010-2026-03-TRANS"
+  },
+  {
+    "employee_id": 11,
+    "allowance_id": "ALW-EMP-000011-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 55,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000011-2026-01-MEAL"
+  },
+  {
+    "employee_id": 11,
+    "allowance_id": "ALW-EMP-000011-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 56,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000011-2026-01-TRANS"
+  },
+  {
+    "employee_id": 11,
+    "allowance_id": "ALW-EMP-000011-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 57,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000011-2026-02-MEAL"
+  },
+  {
+    "employee_id": 11,
+    "allowance_id": "ALW-EMP-000011-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 58,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000011-2026-02-TRANS"
+  },
+  {
+    "employee_id": 11,
+    "allowance_id": "ALW-EMP-000011-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 59,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000011-2026-03-MEAL"
+  },
+  {
+    "employee_id": 11,
+    "allowance_id": "ALW-EMP-000011-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 60,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000011-2026-03-TRANS"
+  },
+  {
+    "employee_id": 12,
+    "allowance_id": "ALW-EMP-000012-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 61,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000012-2026-01-MEAL"
+  },
+  {
+    "employee_id": 12,
+    "allowance_id": "ALW-EMP-000012-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 62,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000012-2026-01-TRANS"
+  },
+  {
+    "employee_id": 12,
+    "allowance_id": "ALW-EMP-000012-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 63,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000012-2026-02-MEAL"
+  },
+  {
+    "employee_id": 12,
+    "allowance_id": "ALW-EMP-000012-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 64,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000012-2026-02-TRANS"
+  },
+  {
+    "employee_id": 12,
+    "allowance_id": "ALW-EMP-000012-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 65,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000012-2026-03-MEAL"
+  },
+  {
+    "employee_id": 12,
+    "allowance_id": "ALW-EMP-000012-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 66,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000012-2026-03-TRANS"
+  },
+  {
+    "employee_id": 13,
+    "allowance_id": "ALW-EMP-000013-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 67,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000013-2026-01-MEAL"
+  },
+  {
+    "employee_id": 13,
+    "allowance_id": "ALW-EMP-000013-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 68,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000013-2026-01-TRANS"
+  },
+  {
+    "employee_id": 13,
+    "allowance_id": "ALW-EMP-000013-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 69,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000013-2026-02-MEAL"
+  },
+  {
+    "employee_id": 13,
+    "allowance_id": "ALW-EMP-000013-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 70,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000013-2026-02-TRANS"
+  },
+  {
+    "employee_id": 13,
+    "allowance_id": "ALW-EMP-000013-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 71,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000013-2026-03-MEAL"
+  },
+  {
+    "employee_id": 13,
+    "allowance_id": "ALW-EMP-000013-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 72,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000013-2026-03-TRANS"
+  },
+  {
+    "employee_id": 14,
+    "allowance_id": "ALW-EMP-000014-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 73,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000014-2026-01-MEAL"
+  },
+  {
+    "employee_id": 14,
+    "allowance_id": "ALW-EMP-000014-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 74,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000014-2026-01-TRANS"
+  },
+  {
+    "employee_id": 14,
+    "allowance_id": "ALW-EMP-000014-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 75,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000014-2026-02-MEAL"
+  },
+  {
+    "employee_id": 14,
+    "allowance_id": "ALW-EMP-000014-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 76,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000014-2026-02-TRANS"
+  },
+  {
+    "employee_id": 14,
+    "allowance_id": "ALW-EMP-000014-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 77,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000014-2026-03-MEAL"
+  },
+  {
+    "employee_id": 14,
+    "allowance_id": "ALW-EMP-000014-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 78,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000014-2026-03-TRANS"
+  },
+  {
+    "employee_id": 15,
+    "allowance_id": "ALW-EMP-000015-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 79,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000015-2026-01-MEAL"
+  },
+  {
+    "employee_id": 15,
+    "allowance_id": "ALW-EMP-000015-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 80,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000015-2026-01-TRANS"
+  },
+  {
+    "employee_id": 15,
+    "allowance_id": "ALW-EMP-000015-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 81,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000015-2026-02-MEAL"
+  },
+  {
+    "employee_id": 15,
+    "allowance_id": "ALW-EMP-000015-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 82,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000015-2026-02-TRANS"
+  },
+  {
+    "employee_id": 15,
+    "allowance_id": "ALW-EMP-000015-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 83,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000015-2026-03-MEAL"
+  },
+  {
+    "employee_id": 15,
+    "allowance_id": "ALW-EMP-000015-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 84,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000015-2026-03-TRANS"
+  },
+  {
+    "employee_id": 16,
+    "allowance_id": "ALW-EMP-000016-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 85,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000016-2026-01-MEAL"
+  },
+  {
+    "employee_id": 16,
+    "allowance_id": "ALW-EMP-000016-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 86,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000016-2026-01-TRANS"
+  },
+  {
+    "employee_id": 16,
+    "allowance_id": "ALW-EMP-000016-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 87,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000016-2026-02-MEAL"
+  },
+  {
+    "employee_id": 16,
+    "allowance_id": "ALW-EMP-000016-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 88,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000016-2026-02-TRANS"
+  },
+  {
+    "employee_id": 16,
+    "allowance_id": "ALW-EMP-000016-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 89,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000016-2026-03-MEAL"
+  },
+  {
+    "employee_id": 16,
+    "allowance_id": "ALW-EMP-000016-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 90,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000016-2026-03-TRANS"
+  },
+  {
+    "employee_id": 17,
+    "allowance_id": "ALW-EMP-000017-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 91,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000017-2026-01-MEAL"
+  },
+  {
+    "employee_id": 17,
+    "allowance_id": "ALW-EMP-000017-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 92,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000017-2026-01-TRANS"
+  },
+  {
+    "employee_id": 17,
+    "allowance_id": "ALW-EMP-000017-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 93,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000017-2026-02-MEAL"
+  },
+  {
+    "employee_id": 17,
+    "allowance_id": "ALW-EMP-000017-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 94,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000017-2026-02-TRANS"
+  },
+  {
+    "employee_id": 17,
+    "allowance_id": "ALW-EMP-000017-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 95,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000017-2026-03-MEAL"
+  },
+  {
+    "employee_id": 17,
+    "allowance_id": "ALW-EMP-000017-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 96,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000017-2026-03-TRANS"
+  },
+  {
+    "employee_id": 18,
+    "allowance_id": "ALW-EMP-000018-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 97,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000018-2026-01-MEAL"
+  },
+  {
+    "employee_id": 18,
+    "allowance_id": "ALW-EMP-000018-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 98,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000018-2026-02-MEAL"
+  },
+  {
+    "employee_id": 18,
+    "allowance_id": "ALW-EMP-000018-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 99,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000018-2026-03-MEAL"
+  },
+  {
+    "employee_id": 19,
+    "allowance_id": "ALW-EMP-000019-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 100,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000019-2026-01-MEAL"
+  },
+  {
+    "employee_id": 19,
+    "allowance_id": "ALW-EMP-000019-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 101,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000019-2026-02-MEAL"
+  },
+  {
+    "employee_id": 19,
+    "allowance_id": "ALW-EMP-000019-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 102,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000019-2026-03-MEAL"
+  },
+  {
+    "employee_id": 20,
+    "allowance_id": "ALW-EMP-000020-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 103,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000020-2026-01-MEAL"
+  },
+  {
+    "employee_id": 20,
+    "allowance_id": "ALW-EMP-000020-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 104,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000020-2026-01-TRANS"
+  },
+  {
+    "employee_id": 20,
+    "allowance_id": "ALW-EMP-000020-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 105,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000020-2026-02-MEAL"
+  },
+  {
+    "employee_id": 20,
+    "allowance_id": "ALW-EMP-000020-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 106,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000020-2026-02-TRANS"
+  },
+  {
+    "employee_id": 20,
+    "allowance_id": "ALW-EMP-000020-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 107,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000020-2026-03-MEAL"
+  },
+  {
+    "employee_id": 20,
+    "allowance_id": "ALW-EMP-000020-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 108,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000020-2026-03-TRANS"
+  },
+  {
+    "employee_id": 21,
+    "allowance_id": "ALW-EMP-000021-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 109,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000021-2026-01-MEAL"
+  },
+  {
+    "employee_id": 21,
+    "allowance_id": "ALW-EMP-000021-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 110,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000021-2026-01-TRANS"
+  },
+  {
+    "employee_id": 21,
+    "allowance_id": "ALW-EMP-000021-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 111,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000021-2026-02-MEAL"
+  },
+  {
+    "employee_id": 21,
+    "allowance_id": "ALW-EMP-000021-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 112,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000021-2026-02-TRANS"
+  },
+  {
+    "employee_id": 21,
+    "allowance_id": "ALW-EMP-000021-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 113,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000021-2026-03-MEAL"
+  },
+  {
+    "employee_id": 21,
+    "allowance_id": "ALW-EMP-000021-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 114,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000021-2026-03-TRANS"
+  },
+  {
+    "employee_id": 22,
+    "allowance_id": "ALW-EMP-000022-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 115,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000022-2026-01-MEAL"
+  },
+  {
+    "employee_id": 22,
+    "allowance_id": "ALW-EMP-000022-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 116,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000022-2026-01-TRANS"
+  },
+  {
+    "employee_id": 22,
+    "allowance_id": "ALW-EMP-000022-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 117,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000022-2026-02-MEAL"
+  },
+  {
+    "employee_id": 22,
+    "allowance_id": "ALW-EMP-000022-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 118,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000022-2026-02-TRANS"
+  },
+  {
+    "employee_id": 22,
+    "allowance_id": "ALW-EMP-000022-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 119,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000022-2026-03-MEAL"
+  },
+  {
+    "employee_id": 22,
+    "allowance_id": "ALW-EMP-000022-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 120,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000022-2026-03-TRANS"
+  },
+  {
+    "employee_id": 23,
+    "allowance_id": "ALW-EMP-000023-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 121,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000023-2026-01-MEAL"
+  },
+  {
+    "employee_id": 23,
+    "allowance_id": "ALW-EMP-000023-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 122,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000023-2026-01-TRANS"
+  },
+  {
+    "employee_id": 23,
+    "allowance_id": "ALW-EMP-000023-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 123,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000023-2026-02-MEAL"
+  },
+  {
+    "employee_id": 23,
+    "allowance_id": "ALW-EMP-000023-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 124,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000023-2026-02-TRANS"
+  },
+  {
+    "employee_id": 23,
+    "allowance_id": "ALW-EMP-000023-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 125,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000023-2026-03-MEAL"
+  },
+  {
+    "employee_id": 23,
+    "allowance_id": "ALW-EMP-000023-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 126,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000023-2026-03-TRANS"
+  },
+  {
+    "employee_id": 24,
+    "allowance_id": "ALW-EMP-000024-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 127,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000024-2026-01-MEAL"
+  },
+  {
+    "employee_id": 24,
+    "allowance_id": "ALW-EMP-000024-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 128,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000024-2026-01-TRANS"
+  },
+  {
+    "employee_id": 24,
+    "allowance_id": "ALW-EMP-000024-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 129,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000024-2026-02-MEAL"
+  },
+  {
+    "employee_id": 24,
+    "allowance_id": "ALW-EMP-000024-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 130,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000024-2026-02-TRANS"
+  },
+  {
+    "employee_id": 24,
+    "allowance_id": "ALW-EMP-000024-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 131,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000024-2026-03-MEAL"
+  },
+  {
+    "employee_id": 24,
+    "allowance_id": "ALW-EMP-000024-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 132,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000024-2026-03-TRANS"
+  },
+  {
+    "employee_id": 25,
+    "allowance_id": "ALW-EMP-000025-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 133,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000025-2026-01-MEAL"
+  },
+  {
+    "employee_id": 25,
+    "allowance_id": "ALW-EMP-000025-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 134,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000025-2026-01-TRANS"
+  },
+  {
+    "employee_id": 25,
+    "allowance_id": "ALW-EMP-000025-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 135,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000025-2026-02-MEAL"
+  },
+  {
+    "employee_id": 25,
+    "allowance_id": "ALW-EMP-000025-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 136,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000025-2026-02-TRANS"
+  },
+  {
+    "employee_id": 25,
+    "allowance_id": "ALW-EMP-000025-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 137,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000025-2026-03-MEAL"
+  },
+  {
+    "employee_id": 25,
+    "allowance_id": "ALW-EMP-000025-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 138,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000025-2026-03-TRANS"
+  },
+  {
+    "employee_id": 26,
+    "allowance_id": "ALW-EMP-000026-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 139,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000026-2026-01-MEAL"
+  },
+  {
+    "employee_id": 26,
+    "allowance_id": "ALW-EMP-000026-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 140,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000026-2026-01-TRANS"
+  },
+  {
+    "employee_id": 26,
+    "allowance_id": "ALW-EMP-000026-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 141,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000026-2026-02-MEAL"
+  },
+  {
+    "employee_id": 26,
+    "allowance_id": "ALW-EMP-000026-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 142,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000026-2026-02-TRANS"
+  },
+  {
+    "employee_id": 26,
+    "allowance_id": "ALW-EMP-000026-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 143,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000026-2026-03-MEAL"
+  },
+  {
+    "employee_id": 26,
+    "allowance_id": "ALW-EMP-000026-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 144,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000026-2026-03-TRANS"
+  },
+  {
+    "employee_id": 27,
+    "allowance_id": "ALW-EMP-000027-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 145,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000027-2026-01-MEAL"
+  },
+  {
+    "employee_id": 27,
+    "allowance_id": "ALW-EMP-000027-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 146,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000027-2026-01-TRANS"
+  },
+  {
+    "employee_id": 27,
+    "allowance_id": "ALW-EMP-000027-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 147,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000027-2026-02-MEAL"
+  },
+  {
+    "employee_id": 27,
+    "allowance_id": "ALW-EMP-000027-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 148,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000027-2026-02-TRANS"
+  },
+  {
+    "employee_id": 27,
+    "allowance_id": "ALW-EMP-000027-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 149,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000027-2026-03-MEAL"
+  },
+  {
+    "employee_id": 27,
+    "allowance_id": "ALW-EMP-000027-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 150,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000027-2026-03-TRANS"
+  },
+  {
+    "employee_id": 28,
+    "allowance_id": "ALW-EMP-000028-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 151,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000028-2026-01-MEAL"
+  },
+  {
+    "employee_id": 28,
+    "allowance_id": "ALW-EMP-000028-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 152,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000028-2026-02-MEAL"
+  },
+  {
+    "employee_id": 28,
+    "allowance_id": "ALW-EMP-000028-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 153,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000028-2026-03-MEAL"
+  },
+  {
+    "employee_id": 29,
+    "allowance_id": "ALW-EMP-000029-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 154,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000029-2026-01-MEAL"
+  },
+  {
+    "employee_id": 29,
+    "allowance_id": "ALW-EMP-000029-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 155,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000029-2026-02-MEAL"
+  },
+  {
+    "employee_id": 29,
+    "allowance_id": "ALW-EMP-000029-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 156,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000029-2026-03-MEAL"
+  },
+  {
+    "employee_id": 30,
+    "allowance_id": "ALW-EMP-000030-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 157,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000030-2026-01-MEAL"
+  },
+  {
+    "employee_id": 30,
+    "allowance_id": "ALW-EMP-000030-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 158,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000030-2026-01-TRANS"
+  },
+  {
+    "employee_id": 30,
+    "allowance_id": "ALW-EMP-000030-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 159,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000030-2026-02-MEAL"
+  },
+  {
+    "employee_id": 30,
+    "allowance_id": "ALW-EMP-000030-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 160,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000030-2026-02-TRANS"
+  },
+  {
+    "employee_id": 30,
+    "allowance_id": "ALW-EMP-000030-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 161,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000030-2026-03-MEAL"
+  },
+  {
+    "employee_id": 30,
+    "allowance_id": "ALW-EMP-000030-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 162,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000030-2026-03-TRANS"
+  },
+  {
+    "employee_id": 31,
+    "allowance_id": "ALW-EMP-000031-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 163,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000031-2026-01-MEAL"
+  },
+  {
+    "employee_id": 31,
+    "allowance_id": "ALW-EMP-000031-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 164,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000031-2026-01-TRANS"
+  },
+  {
+    "employee_id": 31,
+    "allowance_id": "ALW-EMP-000031-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 165,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000031-2026-02-MEAL"
+  },
+  {
+    "employee_id": 31,
+    "allowance_id": "ALW-EMP-000031-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 166,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000031-2026-02-TRANS"
+  },
+  {
+    "employee_id": 31,
+    "allowance_id": "ALW-EMP-000031-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 167,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000031-2026-03-MEAL"
+  },
+  {
+    "employee_id": 31,
+    "allowance_id": "ALW-EMP-000031-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 168,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000031-2026-03-TRANS"
+  },
+  {
+    "employee_id": 32,
+    "allowance_id": "ALW-EMP-000032-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 169,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000032-2026-01-MEAL"
+  },
+  {
+    "employee_id": 32,
+    "allowance_id": "ALW-EMP-000032-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 170,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000032-2026-01-TRANS"
+  },
+  {
+    "employee_id": 32,
+    "allowance_id": "ALW-EMP-000032-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 171,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000032-2026-02-MEAL"
+  },
+  {
+    "employee_id": 32,
+    "allowance_id": "ALW-EMP-000032-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 172,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000032-2026-02-TRANS"
+  },
+  {
+    "employee_id": 32,
+    "allowance_id": "ALW-EMP-000032-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 173,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000032-2026-03-MEAL"
+  },
+  {
+    "employee_id": 32,
+    "allowance_id": "ALW-EMP-000032-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 174,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000032-2026-03-TRANS"
+  },
+  {
+    "employee_id": 33,
+    "allowance_id": "ALW-EMP-000033-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 175,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000033-2026-01-MEAL"
+  },
+  {
+    "employee_id": 33,
+    "allowance_id": "ALW-EMP-000033-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 176,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000033-2026-01-TRANS"
+  },
+  {
+    "employee_id": 33,
+    "allowance_id": "ALW-EMP-000033-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 177,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000033-2026-02-MEAL"
+  },
+  {
+    "employee_id": 33,
+    "allowance_id": "ALW-EMP-000033-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 178,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000033-2026-02-TRANS"
+  },
+  {
+    "employee_id": 33,
+    "allowance_id": "ALW-EMP-000033-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 179,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000033-2026-03-MEAL"
+  },
+  {
+    "employee_id": 33,
+    "allowance_id": "ALW-EMP-000033-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 180,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000033-2026-03-TRANS"
+  },
+  {
+    "employee_id": 34,
+    "allowance_id": "ALW-EMP-000034-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 181,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000034-2026-01-MEAL"
+  },
+  {
+    "employee_id": 34,
+    "allowance_id": "ALW-EMP-000034-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 182,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000034-2026-01-TRANS"
+  },
+  {
+    "employee_id": 34,
+    "allowance_id": "ALW-EMP-000034-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 183,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000034-2026-02-MEAL"
+  },
+  {
+    "employee_id": 34,
+    "allowance_id": "ALW-EMP-000034-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 184,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000034-2026-02-TRANS"
+  },
+  {
+    "employee_id": 34,
+    "allowance_id": "ALW-EMP-000034-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 185,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000034-2026-03-MEAL"
+  },
+  {
+    "employee_id": 34,
+    "allowance_id": "ALW-EMP-000034-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 186,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000034-2026-03-TRANS"
+  },
+  {
+    "employee_id": 35,
+    "allowance_id": "ALW-EMP-000035-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 187,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000035-2026-01-MEAL"
+  },
+  {
+    "employee_id": 35,
+    "allowance_id": "ALW-EMP-000035-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 188,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000035-2026-01-TRANS"
+  },
+  {
+    "employee_id": 35,
+    "allowance_id": "ALW-EMP-000035-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 189,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000035-2026-02-MEAL"
+  },
+  {
+    "employee_id": 35,
+    "allowance_id": "ALW-EMP-000035-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 190,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000035-2026-02-TRANS"
+  },
+  {
+    "employee_id": 35,
+    "allowance_id": "ALW-EMP-000035-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 191,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000035-2026-03-MEAL"
+  },
+  {
+    "employee_id": 35,
+    "allowance_id": "ALW-EMP-000035-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 192,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000035-2026-03-TRANS"
+  },
+  {
+    "employee_id": 36,
+    "allowance_id": "ALW-EMP-000036-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 193,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000036-2026-01-MEAL"
+  },
+  {
+    "employee_id": 36,
+    "allowance_id": "ALW-EMP-000036-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 194,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000036-2026-01-TRANS"
+  },
+  {
+    "employee_id": 36,
+    "allowance_id": "ALW-EMP-000036-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 195,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000036-2026-02-MEAL"
+  },
+  {
+    "employee_id": 36,
+    "allowance_id": "ALW-EMP-000036-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 196,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000036-2026-02-TRANS"
+  },
+  {
+    "employee_id": 36,
+    "allowance_id": "ALW-EMP-000036-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 197,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000036-2026-03-MEAL"
+  },
+  {
+    "employee_id": 36,
+    "allowance_id": "ALW-EMP-000036-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 198,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000036-2026-03-TRANS"
+  },
+  {
+    "employee_id": 37,
+    "allowance_id": "ALW-EMP-000037-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 199,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000037-2026-01-MEAL"
+  },
+  {
+    "employee_id": 37,
+    "allowance_id": "ALW-EMP-000037-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 200,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000037-2026-01-TRANS"
+  },
+  {
+    "employee_id": 37,
+    "allowance_id": "ALW-EMP-000037-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 201,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000037-2026-02-MEAL"
+  },
+  {
+    "employee_id": 37,
+    "allowance_id": "ALW-EMP-000037-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 202,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000037-2026-02-TRANS"
+  },
+  {
+    "employee_id": 37,
+    "allowance_id": "ALW-EMP-000037-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 203,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000037-2026-03-MEAL"
+  },
+  {
+    "employee_id": 37,
+    "allowance_id": "ALW-EMP-000037-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 204,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000037-2026-03-TRANS"
+  },
+  {
+    "employee_id": 38,
+    "allowance_id": "ALW-EMP-000038-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 205,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000038-2026-01-MEAL"
+  },
+  {
+    "employee_id": 38,
+    "allowance_id": "ALW-EMP-000038-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 206,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000038-2026-02-MEAL"
+  },
+  {
+    "employee_id": 38,
+    "allowance_id": "ALW-EMP-000038-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 207,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000038-2026-03-MEAL"
+  },
+  {
+    "employee_id": 39,
+    "allowance_id": "ALW-EMP-000039-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 208,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000039-2026-01-MEAL"
+  },
+  {
+    "employee_id": 39,
+    "allowance_id": "ALW-EMP-000039-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 209,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000039-2026-02-MEAL"
+  },
+  {
+    "employee_id": 39,
+    "allowance_id": "ALW-EMP-000039-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 210,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000039-2026-03-MEAL"
+  },
+  {
+    "employee_id": 40,
+    "allowance_id": "ALW-EMP-000040-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 211,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000040-2026-01-MEAL"
+  },
+  {
+    "employee_id": 40,
+    "allowance_id": "ALW-EMP-000040-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 212,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000040-2026-01-TRANS"
+  },
+  {
+    "employee_id": 40,
+    "allowance_id": "ALW-EMP-000040-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 213,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000040-2026-02-MEAL"
+  },
+  {
+    "employee_id": 40,
+    "allowance_id": "ALW-EMP-000040-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 214,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000040-2026-02-TRANS"
+  },
+  {
+    "employee_id": 40,
+    "allowance_id": "ALW-EMP-000040-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 215,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000040-2026-03-MEAL"
+  },
+  {
+    "employee_id": 40,
+    "allowance_id": "ALW-EMP-000040-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 216,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000040-2026-03-TRANS"
+  },
+  {
+    "employee_id": 41,
+    "allowance_id": "ALW-EMP-000041-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 217,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000041-2026-01-MEAL"
+  },
+  {
+    "employee_id": 41,
+    "allowance_id": "ALW-EMP-000041-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 218,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000041-2026-01-TRANS"
+  },
+  {
+    "employee_id": 41,
+    "allowance_id": "ALW-EMP-000041-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 219,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000041-2026-02-MEAL"
+  },
+  {
+    "employee_id": 41,
+    "allowance_id": "ALW-EMP-000041-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 220,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000041-2026-02-TRANS"
+  },
+  {
+    "employee_id": 41,
+    "allowance_id": "ALW-EMP-000041-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 221,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000041-2026-03-MEAL"
+  },
+  {
+    "employee_id": 41,
+    "allowance_id": "ALW-EMP-000041-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 222,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000041-2026-03-TRANS"
+  },
+  {
+    "employee_id": 42,
+    "allowance_id": "ALW-EMP-000042-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 223,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000042-2026-01-MEAL"
+  },
+  {
+    "employee_id": 42,
+    "allowance_id": "ALW-EMP-000042-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 224,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000042-2026-01-TRANS"
+  },
+  {
+    "employee_id": 42,
+    "allowance_id": "ALW-EMP-000042-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 225,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000042-2026-02-MEAL"
+  },
+  {
+    "employee_id": 42,
+    "allowance_id": "ALW-EMP-000042-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 226,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000042-2026-02-TRANS"
+  },
+  {
+    "employee_id": 42,
+    "allowance_id": "ALW-EMP-000042-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 227,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000042-2026-03-MEAL"
+  },
+  {
+    "employee_id": 42,
+    "allowance_id": "ALW-EMP-000042-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 228,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000042-2026-03-TRANS"
+  },
+  {
+    "employee_id": 43,
+    "allowance_id": "ALW-EMP-000043-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 229,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000043-2026-01-MEAL"
+  },
+  {
+    "employee_id": 43,
+    "allowance_id": "ALW-EMP-000043-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 230,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000043-2026-01-TRANS"
+  },
+  {
+    "employee_id": 43,
+    "allowance_id": "ALW-EMP-000043-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 231,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000043-2026-02-MEAL"
+  },
+  {
+    "employee_id": 43,
+    "allowance_id": "ALW-EMP-000043-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 232,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000043-2026-02-TRANS"
+  },
+  {
+    "employee_id": 43,
+    "allowance_id": "ALW-EMP-000043-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 233,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000043-2026-03-MEAL"
+  },
+  {
+    "employee_id": 43,
+    "allowance_id": "ALW-EMP-000043-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 234,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000043-2026-03-TRANS"
+  },
+  {
+    "employee_id": 44,
+    "allowance_id": "ALW-EMP-000044-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 235,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000044-2026-01-MEAL"
+  },
+  {
+    "employee_id": 44,
+    "allowance_id": "ALW-EMP-000044-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 236,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000044-2026-01-TRANS"
+  },
+  {
+    "employee_id": 44,
+    "allowance_id": "ALW-EMP-000044-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 237,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000044-2026-02-MEAL"
+  },
+  {
+    "employee_id": 44,
+    "allowance_id": "ALW-EMP-000044-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 238,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000044-2026-02-TRANS"
+  },
+  {
+    "employee_id": 44,
+    "allowance_id": "ALW-EMP-000044-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 239,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000044-2026-03-MEAL"
+  },
+  {
+    "employee_id": 44,
+    "allowance_id": "ALW-EMP-000044-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 240,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000044-2026-03-TRANS"
+  },
+  {
+    "employee_id": 45,
+    "allowance_id": "ALW-EMP-000045-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 241,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000045-2026-01-MEAL"
+  },
+  {
+    "employee_id": 45,
+    "allowance_id": "ALW-EMP-000045-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 242,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000045-2026-01-TRANS"
+  },
+  {
+    "employee_id": 45,
+    "allowance_id": "ALW-EMP-000045-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 243,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000045-2026-02-MEAL"
+  },
+  {
+    "employee_id": 45,
+    "allowance_id": "ALW-EMP-000045-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 244,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000045-2026-02-TRANS"
+  },
+  {
+    "employee_id": 45,
+    "allowance_id": "ALW-EMP-000045-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 245,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000045-2026-03-MEAL"
+  },
+  {
+    "employee_id": 45,
+    "allowance_id": "ALW-EMP-000045-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 246,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000045-2026-03-TRANS"
+  },
+  {
+    "employee_id": 46,
+    "allowance_id": "ALW-EMP-000046-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 247,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000046-2026-01-MEAL"
+  },
+  {
+    "employee_id": 46,
+    "allowance_id": "ALW-EMP-000046-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 248,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000046-2026-01-TRANS"
+  },
+  {
+    "employee_id": 46,
+    "allowance_id": "ALW-EMP-000046-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 249,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000046-2026-02-MEAL"
+  },
+  {
+    "employee_id": 46,
+    "allowance_id": "ALW-EMP-000046-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 250,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000046-2026-02-TRANS"
+  },
+  {
+    "employee_id": 46,
+    "allowance_id": "ALW-EMP-000046-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 251,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000046-2026-03-MEAL"
+  },
+  {
+    "employee_id": 46,
+    "allowance_id": "ALW-EMP-000046-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 252,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000046-2026-03-TRANS"
+  },
+  {
+    "employee_id": 47,
+    "allowance_id": "ALW-EMP-000047-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 253,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000047-2026-01-MEAL"
+  },
+  {
+    "employee_id": 47,
+    "allowance_id": "ALW-EMP-000047-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 254,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000047-2026-01-TRANS"
+  },
+  {
+    "employee_id": 47,
+    "allowance_id": "ALW-EMP-000047-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 255,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000047-2026-02-MEAL"
+  },
+  {
+    "employee_id": 47,
+    "allowance_id": "ALW-EMP-000047-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 256,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000047-2026-02-TRANS"
+  },
+  {
+    "employee_id": 47,
+    "allowance_id": "ALW-EMP-000047-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 257,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000047-2026-03-MEAL"
+  },
+  {
+    "employee_id": 47,
+    "allowance_id": "ALW-EMP-000047-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 258,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000047-2026-03-TRANS"
+  },
+  {
+    "employee_id": 48,
+    "allowance_id": "ALW-EMP-000048-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 259,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000048-2026-01-MEAL"
+  },
+  {
+    "employee_id": 48,
+    "allowance_id": "ALW-EMP-000048-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 260,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000048-2026-02-MEAL"
+  },
+  {
+    "employee_id": 48,
+    "allowance_id": "ALW-EMP-000048-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 261,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000048-2026-03-MEAL"
+  },
+  {
+    "employee_id": 49,
+    "allowance_id": "ALW-EMP-000049-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 262,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000049-2026-01-MEAL"
+  },
+  {
+    "employee_id": 49,
+    "allowance_id": "ALW-EMP-000049-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 263,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000049-2026-02-MEAL"
+  },
+  {
+    "employee_id": 49,
+    "allowance_id": "ALW-EMP-000049-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 264,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000049-2026-03-MEAL"
+  },
+  {
+    "employee_id": 50,
+    "allowance_id": "ALW-EMP-000050-2026-01-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 265,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000050-2026-01-MEAL"
+  },
+  {
+    "employee_id": 50,
+    "allowance_id": "ALW-EMP-000050-2026-01-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-01-01",
+    "id": 266,
+    "pay_period_id": 1,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000050-2026-01-TRANS"
+  },
+  {
+    "employee_id": 50,
+    "allowance_id": "ALW-EMP-000050-2026-02-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-02-01",
+    "id": 267,
+    "pay_period_id": 2,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000050-2026-02-MEAL"
+  },
+  {
+    "employee_id": 50,
+    "allowance_id": "ALW-EMP-000050-2026-02-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-02-01",
+    "id": 268,
+    "pay_period_id": 2,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000050-2026-02-TRANS"
+  },
+  {
+    "employee_id": 50,
+    "allowance_id": "ALW-EMP-000050-2026-03-01",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-03-01",
+    "id": 269,
+    "pay_period_id": 3,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000050-2026-03-MEAL"
+  },
+  {
+    "employee_id": 50,
+    "allowance_id": "ALW-EMP-000050-2026-03-02",
+    "allowance_type": "TRANSPORT",
+    "effective_date": "2026-03-01",
+    "id": 270,
+    "pay_period_id": 3,
+    "amount": 2500.0,
+    "reference_code": "REF-ALW-EMP-000050-2026-03-TRANS"
+  },
+  {
+    "employee_id": 1,
+    "allowance_id": "ALW-EMP-000001-2026-01-01-DUP",
+    "allowance_type": "MEAL",
+    "effective_date": "2026-01-01",
+    "id": 271,
+    "pay_period_id": 1,
+    "amount": 1500.0,
+    "reference_code": "REF-ALW-EMP-000001-2026-01-MEAL"
+  }
+]

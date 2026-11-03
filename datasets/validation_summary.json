@@ -1,0 +1,52 @@
+{
+  "status": "PASSED",
+  "timestamp": "2026-11-03T21:44:31.649076+00:00",
+  "checks": {
+    "primary_key_uniqueness": {
+      "passed": true,
+      "details": {
+        "employees": true,
+        "pay_groups": true,
+        "pay_periods": true,
+        "time_entries": true,
+        "leave_records": true,
+        "allowances": true,
+        "deductions": true,
+        "payroll_inputs": true,
+        "validation_rules": true,
+        "exceptions": true
+      }
+    },
+    "foreign_key_integrity": {
+      "passed": true,
+      "details": {
+        "employee_pay_group_fk": true,
+        "time_entry_employee_fk": true,
+        "time_entry_pay_period_fk": true,
+        "leave_employee_fk": true,
+        "leave_pay_period_fk": true,
+        "allowance_employee_fk": true,
+        "deduction_employee_fk": true,
+        "payroll_input_employee_fk": true,
+        "payroll_input_period_fk": true
+      }
+    },
+    "allowed_enums": {
+      "passed": true,
+      "details": {
+        "employee_status_enum": true,
+        "time_approval_enum": true,
+        "leave_approval_enum": true,
+        "payroll_status_enum": true,
+        "exception_severity_enum": true
+      }
+    },
+    "date_ordering": {
+      "passed": true,
+      "details": {
+        "pay_period_start_before_end": true,
+        "leave_start_before_end": true
+      }
+    }
+  }
+}

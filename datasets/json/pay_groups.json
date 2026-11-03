@@ -1,0 +1,26 @@
+[
+  {
+    "group_name": "Monthly Employees",
+    "group_code": "PG-001",
+    "id": 1,
+    "standard_hours": 160.0,
+    "pay_frequency": "MONTHLY",
+    "max_period_hours": 200.0
+  },
+  {
+    "group_name": "Contract Employees",
+    "group_code": "PG-002",
+    "id": 2,
+    "standard_hours": 160.0,
+    "pay_frequency": "MONTHLY",
+    "max_period_hours": 220.0
+  },
+  {
+    "group_name": "Part-time Employees",
+    "group_code": "PG-003",
+    "id": 3,
+    "standard_hours": 80.0,
+    "pay_frequency": "MONTHLY",
+    "max_period_hours": 100.0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "record_id": "EMP-000002",
+    "entity_type": "Employee",
+    "pay_period": "ALL",
+    "rule_code": "RULE-BANK-001",
+    "issue_type": "MISSING_BANK_ACCOUNT",
+    "expected_decision": "BLOCK_APPROVAL",
+    "description": "Planted null bank account for active employee EMP-000002",
+    "ground_truth_label": "ANOMALY"
+  },
+  {
+    "record_id": "EMP-000003",
+    "entity_type": "Employee",
+    "pay_period": "ALL",
+    "rule_code": "RULE-BANK-001",
+    "issue_type": "MISSING_BANK_ACCOUNT",
+    "expected_decision": "BLOCK_APPROVAL",
+    "description": "Planted null bank account for active employee EMP-000003",
+    "ground_truth_label": "ANOMALY"
+  },
+  {
+    "record_id": "EMP-000004",
+    "entity_type": "Employee",
+    "pay_period": "ALL",
+    "rule_code": "RULE-TAX-001",
+    "issue_type": "MISSING_TAX_ID",
+    "expected_decision": "BLOCK_APPROVAL",
+    "description": "Planted null tax ID for active employee EMP-000004",
+    "ground_truth_label": "ANOMALY"
+  },
+  {
+    "record_id": "EMP-000005",
+    "entity_type": "Employee",
+    "pay_period": "ALL",
+    "rule_code": "RULE-TAX-001",
+    "issue_type": "MISSING_TAX_ID",
+    "expected_decision": "BLOCK_APPROVAL",
+    "description": "Planted null tax ID for active employee EMP-000005",
+    "ground_truth_label": "ANOMALY"
+  },
+  {
+    "record_id": "TIME-EMP-000001-2026-01-01-DUP",
+    "entity_type": "TimeEntry",
+    "pay_period": "PP-2026-01",
+    "rule_code": "RULE-TIME-DUP-001",
+    "issue_type": "DUPLICATE_TIME_ENTRY",
+    "expected_decision": "FLAG_EXCEPTION",
+    "description": "Planted duplicate time submission with reference SUB-EMP-000001-2026-01-01",
+    "ground_truth_label": "ANOMALY"
+  },
+  {
+    "record_id": "EMP-000008",
+    "entity_type": "TimeEntry",
+    "pay_period": "PP-2026-01",
+    "rule_code": "RULE-TIME-EXC-001",
+    "issue_type": "EXCESSIVE_WORKING_HOURS",
+    "expected_decision": "FLAG_EXCEPTION",
+    "description": "Planted 20.0h excessive hours for part-time employee EMP-000008",
+    "ground_truth_label": "ANOMALY"
+  },
+  {
+    "record_id": "ALW-EMP-000001-2026-01-01-DUP",
+    "entity_type": "Allowance",
+    "pay_period": "PP-2026-01",
+    "rule_code": "RULE-ALW-DUP-001",
+    "issue_type": "DUPLICATE_ALLOWANCE",
+    "expected_decision": "FLAG_EXCEPTION",
+    "description": "Planted duplicate allowance with reference REF-ALW-EMP-000001-2026-01-MEAL",
+    "ground_truth_label": "ANOMALY"
+  },
+  {
+    "record_id": "PP-2026-03",
+    "entity_type": "TimeEntry",
+    "pay_period": "PP-2026-03",
+    "rule_code": "RULE-TIME-UNAPP-001",
+    "issue_type": "UNAPPROVED_TIME_ENTRY",
+    "expected_decision": "BLOCK_APPROVAL",
+    "description": "Planted pending unapproved time entry for EMP-000001 in PP-2026-03",
+    "ground_truth_label": "ANOMALY"
+  },
+  {
+    "record_id": "DED-EMP-000004-2026-03-03-DUP",
+    "entity_type": "Deduction",
+    "pay_period": "PP-2026-01",
+    "rule_code": "RULE-LEV-DUP-001",
+    "issue_type": "DUPLICATE_LEAVE_DEDUCTION",
+    "expected_decision": "FLAG_EXCEPTION",
+    "description": "Planted double leave deduction DED-EMP-000004-2026-03-03-DUP for leave record ID 3",
+    "ground_truth_label": "ANOMALY"
+  },
+  {
+    "record_id": "PIN-EMP-000050-2026-03",
+    "entity_type": "PayrollInput",
+    "pay_period": "PP-2026-01",
+    "rule_code": "RULE-PAY-RECON-001",
+    "issue_type": "PAYROLL_RECONCILIATION_MISMATCH",
+    "expected_decision": "FLAG_EXCEPTION",
+    "description": "Planted net pay calculation discrepancy (+\u20b95,000) on PIN-EMP-000050-2026-03",
+    "ground_truth_label": "ANOMALY"
+  }
+]

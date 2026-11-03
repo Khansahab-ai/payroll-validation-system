@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 1,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 2,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 1,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 3,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 1,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 4,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 2,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 5,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 2,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 6,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 2,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 7,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 3,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 8,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 3,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 9,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 3,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 10,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 4,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 11,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 4,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 12,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 4,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 13,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 5,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 14,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 5,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 15,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 5,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 16,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 6,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 17,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 6,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 18,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 6,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 19,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 7,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 20,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 7,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 21,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 7,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 22,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 8,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 23,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 8,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 24,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 8,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 25,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 9,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 26,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 9,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 27,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 9,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 28,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 10,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 29,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 10,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 30,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 10,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 31,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 11,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 32,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 11,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 33,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 11,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 34,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 12,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 35,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 12,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 36,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 12,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 37,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 13,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 38,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 13,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 39,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 13,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 40,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 14,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 41,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 14,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 42,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 14,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 43,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 15,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 44,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 15,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 45,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 15,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 46,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 16,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 47,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 16,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 48,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 16,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 49,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 17,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 50,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 17,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 51,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 17,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 52,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 18,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 53,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 18,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 54,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 18,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 55,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 19,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 56,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 19,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 57,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 19,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 58,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 20,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 59,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 20,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 60,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 20,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 61,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 21,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 62,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 21,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 63,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 21,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 64,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 22,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 65,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 22,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 66,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 22,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 67,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 23,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 68,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 23,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 69,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 23,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 70,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 24,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 71,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 24,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 72,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 24,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 73,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 25,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 74,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 25,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 75,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 25,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 76,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 26,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 77,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 26,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 78,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 26,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 79,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 27,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 80,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 27,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 81,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 27,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 82,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 28,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 83,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 28,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 84,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 28,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 85,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 29,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 86,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 29,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 87,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 29,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 88,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 30,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 89,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 30,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 90,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 30,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 91,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 31,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 92,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 31,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 93,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 31,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 94,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 32,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 95,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 32,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 96,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 32,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 97,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 33,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 98,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 33,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 99,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 33,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 100,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 34,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 101,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 34,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 102,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 34,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 103,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 35,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 104,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 35,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 105,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 35,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 106,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 36,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 107,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 36,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 108,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 36,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 109,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 37,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 110,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 37,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 111,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 37,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 112,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 38,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 113,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 38,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 114,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 38,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 115,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 39,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 116,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 39,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 117,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 39,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 118,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 40,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 119,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 40,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 120,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 40,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 121,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 41,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 122,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 41,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 123,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 41,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 124,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 42,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 125,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 42,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 126,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 42,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 127,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 43,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 128,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 43,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 129,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 43,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 130,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 44,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 131,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 44,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 132,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 44,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 133,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 45,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 134,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 45,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 135,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 45,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 136,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 46,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 137,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 46,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 138,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 46,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 139,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 47,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 140,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 47,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 141,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 47,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 142,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 48,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 143,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 48,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 144,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 48,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 145,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 49,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 146,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 49,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 147,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 49,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 148,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 50,
+    "allowance_type": "MEAL",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 149,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 50,
+    "allowance_type": "TRANSPORT",
+    "effective_start": "2026-01-01"
+  },
+  {
+    "id": 150,
+    "is_eligible": true,
+    "effective_end": null,
+    "employee_id": 50,
+    "allowance_type": "HOUSING",
+    "effective_start": "2026-01-01"
+  }
+]

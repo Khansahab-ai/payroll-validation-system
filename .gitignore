@@ -1,0 +1,34 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment & Secrets
+.env
+.streamlit/secrets.toml
+
+# SQLite Database (generated at runtime / seeded)
+payroll.db
+*.db
+*.db-journal
+
+# Exported CSVs (keep directory structure, ignore runtime generated exports)
+export/*.csv
+exports/*.csv
+!export/.gitkeep
+!exports/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db

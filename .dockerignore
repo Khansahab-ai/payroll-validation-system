@@ -1,0 +1,30 @@
+# Git
+.git
+.gitignore
+
+# Virtual Environments
+.venv
+venv
+env
+
+# Python Cache
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest & Coverage
+.pytest_cache
+.coverage
+htmlcov
+
+# Databases & Runtime CSVs
+*.db
+*.db-journal
+export/*.csv
+exports/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+

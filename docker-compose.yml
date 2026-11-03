@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  payroll-app:
+    build: .
+    container_name: payroll-validation-system
+    ports:
+      - "8000:8000"
+      - "8501:8501"
+    volumes:
+      - ./exports:/app/exports
+      - ./export:/app/export
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+

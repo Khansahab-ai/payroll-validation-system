@@ -1,0 +1,4 @@
+group_name,group_code,id,standard_hours,pay_frequency,max_period_hours
+Monthly Employees,PG-001,1,160.0,MONTHLY,200.0
+Contract Employees,PG-002,2,160.0,MONTHLY,220.0
+Part-time Employees,PG-003,3,80.0,MONTHLY,100.0

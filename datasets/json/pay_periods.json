@@ -1,0 +1,26 @@
+[
+  {
+    "period_code": "PP-2026-01",
+    "start_date": "2026-01-01",
+    "payment_date": "2026-02-05",
+    "id": 1,
+    "end_date": "2026-01-31",
+    "status": "OPEN"
+  },
+  {
+    "period_code": "PP-2026-02",
+    "start_date": "2026-02-01",
+    "payment_date": "2026-03-05",
+    "id": 2,
+    "end_date": "2026-02-28",
+    "status": "OPEN"
+  },
+  {
+    "period_code": "PP-2026-03",
+    "start_date": "2026-03-01",
+    "payment_date": "2026-04-05",
+    "id": 3,
+    "end_date": "2026-03-31",
+    "status": "OPEN"
+  }
+]

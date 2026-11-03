@@ -1,0 +1,51 @@
+bank_account,tax_id,employee_id,basic_salary,id,employment_status,name,pay_group_id,email,created_at,department,designation
+ACC-000001-6777,TAX-000001-84,EMP-000001,125000.0,1,ACTIVE,Lauren Nash,1,employee.000001@enterprise.com,2026-01-01 00:00:00+00:00,Operations,Analyst
+,TAX-000002-16,EMP-000002,75000.0,2,ACTIVE,Rodney Hall,1,employee.000002@enterprise.com,2026-01-01 00:00:00+00:00,Finance,Engineer
+,TAX-000003-40,EMP-000003,68000.0,3,ACTIVE,Roger Anderson,1,employee.000003@enterprise.com,2026-01-01 00:00:00+00:00,HR,Senior Specialist
+ACC-000004-9958,,EMP-000004,55000.0,4,ACTIVE,Eric Miles,1,employee.000004@enterprise.com,2026-01-01 00:00:00+00:00,Product,Team Lead
+ACC-000005-4257,,EMP-000005,55000.0,5,ACTIVE,Ashley Lee,1,employee.000005@enterprise.com,2026-01-01 00:00:00+00:00,Support,Manager
+ACC-000006-2746,TAX-000006-34,EMP-000006,60000.0,6,ACTIVE,Brian Garza,2,employee.000006@enterprise.com,2026-01-01 00:00:00+00:00,Engineering,Associate
+ACC-000007-9324,TAX-000007-24,EMP-000007,52000.0,7,ACTIVE,Brian Thomas,2,employee.000007@enterprise.com,2026-01-01 00:00:00+00:00,Operations,Analyst
+ACC-000008-8388,TAX-000008-10,EMP-000008,32000.0,8,ACTIVE,Anthony Bass,3,employee.000008@enterprise.com,2026-01-01 00:00:00+00:00,Finance,Engineer
+ACC-000009-7022,TAX-000009-28,EMP-000009,28000.0,9,ACTIVE,Jim Sexton,3,employee.000009@enterprise.com,2026-01-01 00:00:00+00:00,HR,Senior Specialist
+ACC-000010-6696,TAX-000010-70,EMP-000010,110000.0,10,ACTIVE,Kayla Palmer,1,employee.000010@enterprise.com,2026-01-01 00:00:00+00:00,Product,Team Lead
+ACC-000011-2009,TAX-000011-28,EMP-000011,55000.0,11,ACTIVE,Christopher Gilbert,1,employee.000011@enterprise.com,2026-01-01 00:00:00+00:00,Support,Manager
+ACC-000012-8494,TAX-000012-18,EMP-000012,68000.0,12,ACTIVE,Brandon Bryant,1,employee.000012@enterprise.com,2026-01-01 00:00:00+00:00,Engineering,Associate
+ACC-000013-4670,TAX-000013-75,EMP-000013,55000.0,13,ACTIVE,Amber Nash,1,employee.000013@enterprise.com,2026-01-01 00:00:00+00:00,Operations,Analyst
+ACC-000014-6469,TAX-000014-22,EMP-000014,110000.0,14,ACTIVE,Christine Brown,1,employee.000014@enterprise.com,2026-01-01 00:00:00+00:00,Finance,Engineer
+ACC-000015-8155,TAX-000015-88,EMP-000015,68000.0,15,ACTIVE,Brendan Wagner,1,employee.000015@enterprise.com,2026-01-01 00:00:00+00:00,HR,Senior Specialist
+ACC-000016-2456,TAX-000016-64,EMP-000016,72000.0,16,ACTIVE,Benjamin Robinson,2,employee.000016@enterprise.com,2026-01-01 00:00:00+00:00,Product,Team Lead
+ACC-000017-1750,TAX-000017-26,EMP-000017,72000.0,17,ACTIVE,Karen Jones DDS,2,employee.000017@enterprise.com,2026-01-01 00:00:00+00:00,Support,Manager
+ACC-000018-9649,TAX-000018-36,EMP-000018,38000.0,18,ACTIVE,Holly Wise,3,employee.000018@enterprise.com,2026-01-01 00:00:00+00:00,Engineering,Associate
+ACC-000019-2182,TAX-000019-57,EMP-000019,28000.0,19,ACTIVE,Wendy Smith,3,employee.000019@enterprise.com,2026-01-01 00:00:00+00:00,Operations,Analyst
+ACC-000020-5874,TAX-000020-74,EMP-000020,55000.0,20,ACTIVE,Mr. Allen Fletcher,1,employee.000020@enterprise.com,2026-01-01 00:00:00+00:00,Finance,Engineer
+ACC-000021-1094,TAX-000021-22,EMP-000021,68000.0,21,ACTIVE,Jose Rodgers,1,employee.000021@enterprise.com,2026-01-01 00:00:00+00:00,HR,Senior Specialist
+ACC-000022-7384,TAX-000022-38,EMP-000022,55000.0,22,ACTIVE,Monique Vincent,1,employee.000022@enterprise.com,2026-01-01 00:00:00+00:00,Product,Team Lead
+ACC-000023-8970,TAX-000023-71,EMP-000023,110000.0,23,ACTIVE,Ryan Wilson,1,employee.000023@enterprise.com,2026-01-01 00:00:00+00:00,Support,Manager
+ACC-000024-2219,TAX-000024-78,EMP-000024,125000.0,24,ACTIVE,Lauren Williams,1,employee.000024@enterprise.com,2026-01-01 00:00:00+00:00,Engineering,Associate
+ACC-000025-6990,TAX-000025-15,EMP-000025,55000.0,25,ACTIVE,Jonathan Smith,1,employee.000025@enterprise.com,2026-01-01 00:00:00+00:00,Operations,Analyst
+ACC-000026-1087,TAX-000026-71,EMP-000026,72000.0,26,ACTIVE,Jessica Stevens,2,employee.000026@enterprise.com,2026-01-01 00:00:00+00:00,Finance,Engineer
+ACC-000027-4897,TAX-000027-13,EMP-000027,45000.0,27,ACTIVE,Curtis Odom,2,employee.000027@enterprise.com,2026-01-01 00:00:00+00:00,HR,Senior Specialist
+ACC-000028-5989,TAX-000028-76,EMP-000028,32000.0,28,ACTIVE,Lindsey Vance,3,employee.000028@enterprise.com,2026-01-01 00:00:00+00:00,Product,Team Lead
+ACC-000029-1693,TAX-000029-49,EMP-000029,35000.0,29,ACTIVE,Molly Frost,3,employee.000029@enterprise.com,2026-01-01 00:00:00+00:00,Support,Manager
+ACC-000030-1239,TAX-000030-25,EMP-000030,92000.0,30,ACTIVE,Matthew Scott,1,employee.000030@enterprise.com,2026-01-01 00:00:00+00:00,Engineering,Associate
+ACC-000031-5795,TAX-000031-84,EMP-000031,55000.0,31,ACTIVE,Jennifer Robles,1,employee.000031@enterprise.com,2026-01-01 00:00:00+00:00,Operations,Analyst
+ACC-000032-1827,TAX-000032-15,EMP-000032,110000.0,32,ACTIVE,Heather Navarro,1,employee.000032@enterprise.com,2026-01-01 00:00:00+00:00,Finance,Engineer
+ACC-000033-9271,TAX-000033-11,EMP-000033,125000.0,33,ACTIVE,Cassandra Mason,1,employee.000033@enterprise.com,2026-01-01 00:00:00+00:00,HR,Senior Specialist
+ACC-000034-9420,TAX-000034-45,EMP-000034,92000.0,34,ACTIVE,Edgar Hernandez,1,employee.000034@enterprise.com,2026-01-01 00:00:00+00:00,Product,Team Lead
+ACC-000035-1327,TAX-000035-68,EMP-000035,92000.0,35,ACTIVE,Amanda Bowman DVM,1,employee.000035@enterprise.com,2026-01-01 00:00:00+00:00,Support,Manager
+ACC-000036-4294,TAX-000036-98,EMP-000036,60000.0,36,ACTIVE,Melissa Adams,2,employee.000036@enterprise.com,2026-01-01 00:00:00+00:00,Engineering,Associate
+ACC-000037-9381,TAX-000037-77,EMP-000037,60000.0,37,ACTIVE,Olivia Dixon DVM,2,employee.000037@enterprise.com,2026-01-01 00:00:00+00:00,Operations,Analyst
+ACC-000038-5588,TAX-000038-94,EMP-000038,38000.0,38,ACTIVE,Paul Gould,3,employee.000038@enterprise.com,2026-01-01 00:00:00+00:00,Finance,Engineer
+ACC-000039-6170,TAX-000039-75,EMP-000039,35000.0,39,ACTIVE,Timothy Hoffman,3,employee.000039@enterprise.com,2026-01-01 00:00:00+00:00,HR,Senior Specialist
+ACC-000040-6820,TAX-000040-55,EMP-000040,92000.0,40,ACTIVE,David Knight,1,employee.000040@enterprise.com,2026-01-01 00:00:00+00:00,Product,Team Lead
+ACC-000041-3473,TAX-000041-74,EMP-000041,68000.0,41,ACTIVE,Jeffrey Ray,1,employee.000041@enterprise.com,2026-01-01 00:00:00+00:00,Support,Manager
+ACC-000042-8632,TAX-000042-75,EMP-000042,68000.0,42,ACTIVE,Jared Drake,1,employee.000042@enterprise.com,2026-01-01 00:00:00+00:00,Engineering,Associate
+ACC-000043-8395,TAX-000043-29,EMP-000043,75000.0,43,ACTIVE,Shawn Lawson,1,employee.000043@enterprise.com,2026-01-01 00:00:00+00:00,Operations,Analyst
+ACC-000044-1136,TAX-000044-14,EMP-000044,125000.0,44,ACTIVE,Nicholas Ball,1,employee.000044@enterprise.com,2026-01-01 00:00:00+00:00,Finance,Engineer
+ACC-000045-8535,TAX-000045-98,EMP-000045,125000.0,45,ACTIVE,Joseph Brown,1,employee.000045@enterprise.com,2026-01-01 00:00:00+00:00,HR,Senior Specialist
+ACC-000046-9820,TAX-000046-75,EMP-000046,60000.0,46,ACTIVE,Brittany Henry,2,employee.000046@enterprise.com,2026-01-01 00:00:00+00:00,Product,Team Lead
+ACC-000047-3019,TAX-000047-72,EMP-000047,52000.0,47,ACTIVE,Jamie Brown,2,employee.000047@enterprise.com,2026-01-01 00:00:00+00:00,Support,Manager
+ACC-000048-3420,TAX-000048-29,EMP-000048,38000.0,48,ACTIVE,Kara Hickman,3,employee.000048@enterprise.com,2026-01-01 00:00:00+00:00,Engineering,Associate
+ACC-000049-5025,TAX-000049-82,EMP-000049,38000.0,49,ACTIVE,Jennifer Coleman,3,employee.000049@enterprise.com,2026-01-01 00:00:00+00:00,Operations,Analyst
+ACC-000050-1291,TAX-000050-87,EMP-000050,125000.0,50,ACTIVE,Patrick Cook,1,employee.000050@enterprise.com,2026-01-01 00:00:00+00:00,Finance,Engineer

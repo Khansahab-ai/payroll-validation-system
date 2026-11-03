@@ -1,0 +1,9 @@
+rule_code,rule_name,severity,description,id,is_active
+RULE-BANK-001,Missing Bank Account Validation,HIGH,Flags active employees missing required bank account numbers before payroll disbursement.,1,True
+RULE-TAX-001,Missing Tax ID Validation,HIGH,Flags active employees missing statutory tax identification numbers.,2,True
+RULE-TIME-DUP-001,Duplicate Time Entry Submission,HIGH,Flags duplicate time submissions sharing identical submission reference codes or employee and date.,3,True
+RULE-TIME-EXC-001,Excessive Working Hours / Outliers,HIGH,Flags approved hours exceeding the pay group's maximum period hours or single-shift outliers > 16h.,4,True
+RULE-ALW-DUP-001,Duplicate Allowance Validation,HIGH,Flags duplicate allowances with identical reference codes or duplicate grants of single-grant allowances.,5,True
+RULE-TIME-UNAPP-001,Unapproved Time Entries Validation,HIGH,"Flags unapproved or pending time entries within a pay period, preventing premature inclusion or export.",6,True
+RULE-LEV-DUP-001,Duplicate Leave Deduction Validation,HIGH,Flags unpaid leave deductions that are applied multiple times for the same leave record or period.,7,True
+RULE-PAY-RECON-001,Payroll Totals Reconciliation Validation,HIGH,Flags arithmetic discrepancies between net pay and calculated component totals (basic + overtime + allowances - deductions - unpaid leave).,8,True
